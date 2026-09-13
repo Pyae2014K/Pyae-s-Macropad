@@ -1,47 +1,55 @@
-# Pyae-s-Alarm-Clock
+# Pyae's Macro Pad
 
-My alarm clock is an alarm clock with 6 keys, a TFT screen, and a buzzer.
+My macro pad is a 12 key macro pad with a rotary encoder, an OLED Display.
+It uses QMK firmware
 
-It serves as an alarm clock that I can use every day to wake up on time for school.
+It serves as a macro pad that I can use every day.
 
 ## Features:
-- 2.25in TFT Screen
-- Buzzer for alarm
-- 6 keys to do alarm things
+- 128x32 OLED Display
+- EC11 Rotary encoder for volume
+- 12 Keys for what ever
+- [VIA](https://www.caniusevia.com/) support
 
 ## CAD Model
-Everything fits together using 8 M3 Bolts and heatset inserts.
+Everything fits together using 4 M3 Bolts and heatset inserts.
 
 It has 2 different pieces, the Case and the Plate.
 
-<img width="945" height="643" alt="Screenshot 2026-09-11 194725 - Copy" src="https://github.com/user-attachments/assets/fc955460-5acb-49f1-84dc-c2e29fd3283a" />
+<img width="727" height="902" alt="image" src="https://github.com/user-attachments/assets/c4b8e635-707f-4b96-8c27-7eba037bfa0a" />
 
-The model was made in Shapr 3D
+The model was made in Shapr 3D.
 
 ##PCB
-My PCB was made using KiCad
+My PCB was made using KiCad.
+
 Schematic
 
-<img width="1040" height="877" alt="Screenshot 2026-09-12 170135" src="https://github.com/user-attachments/assets/d892c9f7-1e48-4a75-b103-8005b8eb794f" />
+<img width="1250" height="631" alt="image" src="https://github.com/user-attachments/assets/030f6dd6-54e0-4566-b0a3-37391eaa0fc4" />
+
 
 PCB
 
-<img width="747" height="707" alt="Screenshot 2026-09-11 181705" src="https://github.com/user-attachments/assets/34011206-e0cd-45fd-9a24-bd190a9134c9" />
+<img width="728" height="992" alt="image" src="https://github.com/user-attachments/assets/8e311ab8-0277-4e9c-a988-f5cafe62dbfd" />
 
-I used the footprints that were shown in the guide.
+
+I used [Joe Scotto's](https://www.youtube.com/@joe_scotto) footprints for all of them.
 
 ## Firmware
-This alarm clock uses Arduino IDE
-It does alarm clock things.
+This hackpad uses [QMK](https://qmk.fm/) firmware for everything.
+- 12 keys used for macros (can be changed with VIA).
+- Rotary encoder used to change volume.
+- OLED display to show what layer is currently open.
 
 ## BOM:
-Here is everything you will need to make this alarm clock
+Here is everything you will need to make this hackpad
 
-6x Charry MX Switches
-6x DSA Keycaps
-8x M3x5x4 Heatset inserts
-8x M3x16mm SHCS Bolts
-6x 1N4148 DO-35 Diodes.
-1x 2.25in TFT Screen
-1x XIAO ESP32C3
+12x Cherry MX Switches
+12x DSA Keycaps
+4x M3x5x4 Heatset inserts
+4x M3x16mm SHCS Bolts
+12x 1N4148 DO-35 Diodes.
+1x 0.91" 128x32 OLED Display
+1x EC11 Rotary Encoder
+1x XIAO RP2040
 1x Case (2 printed parts)
