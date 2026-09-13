@@ -12,7 +12,7 @@ It serves as a macro pad that I can use every day.
 - [VIA](https://www.caniusevia.com/) support
 
 ## CAD Model
-Everything fits together using 4 M3 Bolts and heatset inserts.
+Everything fits together using 8 M3 Bolts and heatset inserts.
 
 It has 2 different pieces, the Case and the Plate.
 
@@ -46,8 +46,8 @@ Here is everything you will need to make this hackpad
 
 12x Cherry MX Switches
 12x DSA Keycaps
-4x M3x5x4 Heatset inserts
-4x M3x16mm SHCS Bolts
+8x M3x5x4 Heatset inserts
+8x M3x16mm SHCS Bolts
 12x 1N4148 DO-35 Diodes.
 1x 0.91" 128x32 OLED Display
 1x EC11 Rotary Encoder
