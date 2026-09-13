@@ -16,7 +16,7 @@ Everything fits together using 8 M3 Bolts and heatset inserts.
 
 It has 2 different pieces, the Case and the Plate.
 
-<img width="727" height="902" alt="image" src="https://github.com/user-attachments/assets/c4b8e635-707f-4b96-8c27-7eba037bfa0a" />
+<img width="1165" height="791" alt="image" src="https://github.com/user-attachments/assets/a3df0b8d-e8fe-4fe1-b7da-4a1f0a3d425c" />
 
 The model was made in Shapr 3D.
 
