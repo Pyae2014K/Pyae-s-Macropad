@@ -43,10 +43,10 @@ This macropad uses [QMK](https://qmk.fm/) firmware for its code.
 ## BOM:
 Here is everything that is needed to make this macropad
 
-13x MX Style Switches
-13x DSA Keycaps
-14x 1N4148 DO-35 Diodes.
-1x  Rotary encoder
-4x  M3 Bolts
-4x  Heatset Inserts
-1x  Case (Top Case, Bottom Case, Plate, Knob)
+- 13x MX Style Switches
+- 13x DSA Keycaps
+- 14x 1N4148 DO-35 Diodes.
+- 1x  Rotary encoder
+- 4x  M3 Bolts
+- 4x  Heatset Inserts
+- 1x  Case (Top Case, Bottom Case, Plate, Knob)
