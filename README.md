@@ -42,11 +42,16 @@ This macropad uses [QMK](https://qmk.fm/) firmware for its code.
 
 ## BOM:
 Here is everything that is needed to make this macropad
-
-- 13x MX Style Switches
-- 13x DSA Keycaps
-- 14x 1N4148 DO-35 Diodes.
-- 1x  Rotary encoder
-- 4x  M3 Bolts
-- 4x  Heatset Inserts
-- 1x  Case (Top Case, Bottom Case, Plate, Knob)
+| Qty | Part              | Description                 |
+|-----|-------------------|-----------------------------|
+| 1   | Seeed XIAO RP2040 | Microcontroller             |
+| 13  | MX Style Switches | Mechanical keyboard switch  |
+| 13  | DSA Keycap        | DSA profile keycap          |
+| 14  | 1N4148 Diode      | DO-35 through-hole diode    |
+| 1   | Rotary Encoder    | Rotary encoder              |
+| 4   | M3 Bolt           | M3 screw                    |
+| 4   | Heatset Insert    | M3 threaded heat-set insert |
+| 1   | Case Top          | 3D printed top case         |
+| 1   | Case Bottom       | 3D printed bottom case      |
+| 1   | Plate             | Switch plate                |
+| 1   | Knob              | Rotary encoder knob         |
